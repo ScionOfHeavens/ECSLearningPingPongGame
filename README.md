@@ -1,2 +1,2 @@
 # ECSLearningPingPongGame
-I'm learng how to use ecs
+I'm learng how to use ecs and GIT
